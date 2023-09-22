@@ -1,0 +1,16 @@
+﻿.footerlinks {
+    color: #000000; /* Black text color */
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #ffffff; /* White text color on hover */
+    }
+
+#footer1 {
+    background: #D4C6B8; /* Tea green background color for #footer1 */
+}
+
+#footer2 {
+    background: #C8B4A2; /* Tea green background color for #footer2 */
+}
